@@ -1,0 +1,30 @@
+{
+   "vehicle" :[
+       {
+           "img"  : "axio.jpeg",
+           "type" : "Car",
+           "make" : "Toyota",
+           "model": "Axio",
+           "year" : 2010
+       },
+       {
+            "img"  : "prado_kdj.jpeg",
+            "type" : "JEEP",
+            "make" : "Toyota",
+            "model": "Prado KDJ",
+            "year" : 2018
+        },
+        {
+            "img"  : "BMW.jpeg",
+            "type" : "Car",
+            "make" : "BMW",
+            "model": "BMW 520d",
+            "year" : 2017
+        }  
+
+    ]
+
+}
+
+
+
